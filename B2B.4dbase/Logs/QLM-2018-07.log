@@ -1,0 +1,160 @@
+2018-07-02 17:22:03 INF:  =====================================
+2018-07-02 17:22:03 INF:  * RTStartup *
+2018-07-02 17:22:03 INF:  -------------------------------------
+2018-07-02 17:22:03 INF:  QLM 1.2.1 M
+2018-07-02 17:22:03 INF:  appType4thDimension:0x1603, interpreted
+2018-07-02 17:22:03 INF:  -------------------------------------
+2018-07-02 17:22:03 INF:  RTLoadStructKeys
+2018-07-02 17:22:03 INF:  IOLoadStructureKeys
+2018-07-02 17:22:03 ERR:  Get4DRes -192
+2018-07-02 17:22:03 INF:  Struct key count: 0
+2018-07-02 17:22:04 INF:  -------------------------------------
+2018-07-02 17:22:04 INF:  RTLoadExtKeys
+2018-07-02 17:22:04 INF:  IOLoadExternalKey
+2018-07-02 17:22:04 INF:  Checking existense of directory: <CFURL 0x6040004b20c0 [0x7fff94c67af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-02 17:22:04 INF:  Path exists: <CFURL 0x6040004b20c0 [0x7fff94c67af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-02 17:22:04 INF:  Directory exists: <CFURL 0x6040004b20c0 [0x7fff94c67af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-02 17:22:04 INF:  External key file path: /Users/if65/Library/Application Support/4D/Licenses/Escape/BB.QLC
+2018-07-02 17:22:04 ERR:  ReadFromFile -43
+2018-07-02 17:22:04 INF:  Ext key count: 0
+2018-07-02 18:01:44 INF:  * RTShutdown *
+2018-07-09 11:57:54 INF:  =====================================
+2018-07-09 11:57:54 INF:  * RTStartup *
+2018-07-09 11:57:54 INF:  -------------------------------------
+2018-07-09 11:57:54 INF:  QLM 1.2.1 M
+2018-07-09 11:57:54 INF:  appType4thDimension:0x1603, interpreted
+2018-07-09 11:57:54 INF:  -------------------------------------
+2018-07-09 11:57:54 INF:  RTLoadStructKeys
+2018-07-09 11:57:54 INF:  IOLoadStructureKeys
+2018-07-09 11:57:54 ERR:  Get4DRes -192
+2018-07-09 11:57:54 INF:  Struct key count: 0
+2018-07-09 11:57:54 INF:  -------------------------------------
+2018-07-09 11:57:54 INF:  RTLoadExtKeys
+2018-07-09 11:57:54 INF:  IOLoadExternalKey
+2018-07-09 11:57:54 INF:  Checking existense of directory: <CFURL 0x6040004b55a0 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-09 11:57:54 INF:  Path exists: <CFURL 0x6040004b55a0 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-09 11:57:54 INF:  Directory exists: <CFURL 0x6040004b55a0 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-09 11:57:54 INF:  External key file path: /Users/if65/Library/Application Support/4D/Licenses/Escape/BB.QLC
+2018-07-09 11:57:54 ERR:  ReadFromFile -43
+2018-07-09 11:57:54 INF:  Ext key count: 0
+2018-07-09 12:00:57 INF:  * RTShutdown *
+2018-07-11 09:47:01 INF:  =====================================
+2018-07-11 09:47:01 INF:  * RTStartup *
+2018-07-11 09:47:01 INF:  -------------------------------------
+2018-07-11 09:47:01 INF:  QLM 1.2.1 M
+2018-07-11 09:47:01 INF:  appType4thDimension:0x1603, interpreted
+2018-07-11 09:47:01 INF:  -------------------------------------
+2018-07-11 09:47:01 INF:  RTLoadStructKeys
+2018-07-11 09:47:01 INF:  IOLoadStructureKeys
+2018-07-11 09:47:01 ERR:  Get4DRes -192
+2018-07-11 09:47:01 INF:  Struct key count: 0
+2018-07-11 09:47:01 INF:  -------------------------------------
+2018-07-11 09:47:01 INF:  RTLoadExtKeys
+2018-07-11 09:47:01 INF:  IOLoadExternalKey
+2018-07-11 09:47:01 INF:  Checking existense of directory: <CFURL 0x6040008b2300 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-11 09:47:01 INF:  Path exists: <CFURL 0x6040008b2300 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-11 09:47:01 INF:  Directory exists: <CFURL 0x6040008b2300 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-11 09:47:01 INF:  External key file path: /Users/if65/Library/Application Support/4D/Licenses/Escape/BB.QLC
+2018-07-11 09:47:01 ERR:  ReadFromFile -43
+2018-07-11 09:47:01 INF:  Ext key count: 0
+2018-07-11 10:00:51 INF:  * RTShutdown *
+2018-07-17 10:40:15 INF:  =====================================
+2018-07-17 10:40:15 INF:  * RTStartup *
+2018-07-17 10:40:15 INF:  -------------------------------------
+2018-07-17 10:40:15 INF:  QLM 1.2.1 M
+2018-07-17 10:40:15 INF:  appType4thDimension:0x1603, interpreted
+2018-07-17 10:40:15 INF:  -------------------------------------
+2018-07-17 10:40:15 INF:  RTLoadStructKeys
+2018-07-17 10:40:15 INF:  IOLoadStructureKeys
+2018-07-17 10:40:15 ERR:  Get4DRes -192
+2018-07-17 10:40:15 INF:  Struct key count: 0
+2018-07-17 10:40:15 INF:  -------------------------------------
+2018-07-17 10:40:15 INF:  RTLoadExtKeys
+2018-07-17 10:40:15 INF:  IOLoadExternalKey
+2018-07-17 10:40:15 INF:  Checking existense of directory: <CFURL 0x6080006a2940 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-17 10:40:15 INF:  Path exists: <CFURL 0x6080006a2940 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-17 10:40:15 INF:  Directory exists: <CFURL 0x6080006a2940 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-17 10:40:15 INF:  External key file path: /Users/if65/Library/Application Support/4D/Licenses/Escape/BB.QLC
+2018-07-17 10:40:15 ERR:  ReadFromFile -43
+2018-07-17 10:40:15 INF:  Ext key count: 0
+2018-07-17 11:13:13 INF:  * RTShutdown *
+2018-07-18 15:14:12 INF:  =====================================
+2018-07-18 15:14:12 INF:  * RTStartup *
+2018-07-18 15:14:12 INF:  -------------------------------------
+2018-07-18 15:14:12 INF:  QLM 1.2.1 M
+2018-07-18 15:14:12 INF:  appType4thDimension:0x1603, interpreted
+2018-07-18 15:14:12 INF:  -------------------------------------
+2018-07-18 15:14:12 INF:  RTLoadStructKeys
+2018-07-18 15:14:12 INF:  IOLoadStructureKeys
+2018-07-18 15:14:12 ERR:  Get4DRes -192
+2018-07-18 15:14:12 INF:  Struct key count: 0
+2018-07-18 15:14:12 INF:  -------------------------------------
+2018-07-18 15:14:12 INF:  RTLoadExtKeys
+2018-07-18 15:14:12 INF:  IOLoadExternalKey
+2018-07-18 15:14:12 INF:  Checking existense of directory: <CFURL 0x600000ea1d40 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-18 15:14:12 INF:  Path exists: <CFURL 0x600000ea1d40 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-18 15:14:12 INF:  Directory exists: <CFURL 0x600000ea1d40 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-18 15:14:12 INF:  External key file path: /Users/if65/Library/Application Support/4D/Licenses/Escape/BB.QLC
+2018-07-18 15:14:12 ERR:  ReadFromFile -43
+2018-07-18 15:14:12 INF:  Ext key count: 0
+2018-07-18 18:16:35 INF:  * RTShutdown *
+2018-07-19 16:12:02 INF:  =====================================
+2018-07-19 16:12:02 INF:  * RTStartup *
+2018-07-19 16:12:02 INF:  -------------------------------------
+2018-07-19 16:12:02 INF:  QLM 1.2.1 M
+2018-07-19 16:12:02 INF:  appType4thDimension:0x1603, interpreted
+2018-07-19 16:12:02 INF:  -------------------------------------
+2018-07-19 16:12:02 INF:  RTLoadStructKeys
+2018-07-19 16:12:02 INF:  IOLoadStructureKeys
+2018-07-19 16:12:02 ERR:  Get4DRes -192
+2018-07-19 16:12:02 INF:  Struct key count: 0
+2018-07-19 16:12:02 INF:  -------------------------------------
+2018-07-19 16:12:02 INF:  RTLoadExtKeys
+2018-07-19 16:12:02 INF:  IOLoadExternalKey
+2018-07-19 16:12:02 INF:  Checking existense of directory: <CFURL 0x600000cab640 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-19 16:12:02 INF:  Path exists: <CFURL 0x600000cab640 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-19 16:12:02 INF:  Directory exists: <CFURL 0x600000cab640 [0x7fffb1557af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-19 16:12:02 INF:  External key file path: /Users/if65/Library/Application Support/4D/Licenses/Escape/BB.QLC
+2018-07-19 16:12:02 ERR:  ReadFromFile -43
+2018-07-19 16:12:02 INF:  Ext key count: 0
+2018-07-19 16:22:49 INF:  * RTShutdown *
+2018-07-26 18:31:32 INF:  =====================================
+2018-07-26 18:31:32 INF:  * RTStartup *
+2018-07-26 18:31:32 INF:  -------------------------------------
+2018-07-26 18:31:32 INF:  QLM 1.2.1 M
+2018-07-26 18:31:32 INF:  appType4thDimension:0x1603, interpreted
+2018-07-26 18:31:32 INF:  -------------------------------------
+2018-07-26 18:31:32 INF:  RTLoadStructKeys
+2018-07-26 18:31:32 INF:  IOLoadStructureKeys
+2018-07-26 18:31:32 ERR:  Get4DRes -192
+2018-07-26 18:31:32 INF:  Struct key count: 0
+2018-07-26 18:31:32 INF:  -------------------------------------
+2018-07-26 18:31:32 INF:  RTLoadExtKeys
+2018-07-26 18:31:32 INF:  IOLoadExternalKey
+2018-07-26 18:31:32 INF:  Checking existense of directory: <CFURL 0x6080004bdc40 [0x7fff94652af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-26 18:31:32 INF:  Path exists: <CFURL 0x6080004bdc40 [0x7fff94652af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-26 18:31:32 INF:  Directory exists: <CFURL 0x6080004bdc40 [0x7fff94652af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-26 18:31:32 INF:  External key file path: /Users/if65/Library/Application Support/4D/Licenses/Escape/BB.QLC
+2018-07-26 18:31:32 ERR:  ReadFromFile -43
+2018-07-26 18:31:32 INF:  Ext key count: 0
+2018-07-26 20:49:07 INF:  * RTShutdown *
+2018-07-27 09:03:03 INF:  =====================================
+2018-07-27 09:03:03 INF:  * RTStartup *
+2018-07-27 09:03:03 INF:  -------------------------------------
+2018-07-27 09:03:03 INF:  QLM 1.2.1 M
+2018-07-27 09:03:03 INF:  appType4thDimension:0x1603, interpreted
+2018-07-27 09:03:03 INF:  -------------------------------------
+2018-07-27 09:03:03 INF:  RTLoadStructKeys
+2018-07-27 09:03:03 INF:  IOLoadStructureKeys
+2018-07-27 09:03:03 ERR:  Get4DRes -192
+2018-07-27 09:03:03 INF:  Struct key count: 0
+2018-07-27 09:03:03 INF:  -------------------------------------
+2018-07-27 09:03:03 INF:  RTLoadExtKeys
+2018-07-27 09:03:03 INF:  IOLoadExternalKey
+2018-07-27 09:03:03 INF:  Checking existense of directory: <CFURL 0x6000010a0cc0 [0x7fff96e76af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-27 09:03:03 INF:  Path exists: <CFURL 0x6000010a0cc0 [0x7fff96e76af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-27 09:03:03 INF:  Directory exists: <CFURL 0x6000010a0cc0 [0x7fff96e76af0]>{string = file:///Users/if65/Library/Application%20Support/4D/Licenses/Escape/, encoding = 134217984, base = (null)}
+2018-07-27 09:03:03 INF:  External key file path: /Users/if65/Library/Application Support/4D/Licenses/Escape/BB.QLC
+2018-07-27 09:03:03 ERR:  ReadFromFile -43
+2018-07-27 09:03:03 INF:  Ext key count: 0
+2018-07-27 09:06:25 INF:  * RTShutdown *

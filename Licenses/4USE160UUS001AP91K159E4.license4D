@@ -1,0 +1,237 @@
+<!--//<VER2>--><!--//<BLK>77u/eyJzZXJpYWxWZXJzaW9uIjoxMCwidXNlck5hbWUiOiJtYXNzaW1vIHRhZ2xpZXR0aSIsImNvbXBhbnlOYW1lIjoiSUYgNjUgc3BhIiwic2VyaWFsS2V5IjoiUlZuZzMxMDRZOTAxMDQxMCtEYnoiLCJleHBhbnNpb25LZXkiOiJSS0hZMzkwMTMwNDYwRktRLVkiLCJvZmZlck5hbWUiOiI0RCBTZXJ2ZXIgdjE2IiwicHJvZHVjdE51bWJlciI6IjRVU0UxNjBVVVMwMDFBUDkxSzE1OUU0Iiwic3RvcmVMb2dpbiI6Im10YWdsaWV0dGlAbWFjLmNvbSIsInNlZWQiOiIzRmlSSnVEc1M4SjZBZTliQklQZmh3PT0iLCJzaG91bGRDaGVja1NlZWQiOmZhbHNlLCJleHBhbnNpb25zQXJyYXkiOlt7InByb2R1Y3ROdW1iZXIiOiI0VVdTMTYwVVVTMDAxQ05WWjgwRkY4NCIsImV4cGFuc2lvbktleSI6IlFpZFkzODBHMjBYeUwxMCtEYnoxMEo5ZTVHIiwib2ZmZXJOYW1lIjoiNEQgV2ViIFNlcnZpY2VzIEV4cGFuc2lvbiB2MTYiLCJjaGVja3N1bSI6ImpVd1ovR3RVU20wWnpGbFhvSjF2YWc9PSJ9LHsicHJvZHVjdE51bWJlciI6IjRVU1ExNjBVVVMwMDE4MTBXQTAxMTNFIiwiZXhwYW5zaW9uS2V5IjoiUUV1WTM0MDg2MFh5TDEwK0RiejEwQlhTSlkiLCJvZmZlck5hbWUiOiI0RCBTUUwgRXhwYW5zaW9uIHYxNiAtIFVubGltaXRlZCAyIENvcmVzIiwiY29yZXNDb3VudCI6MiwiY2hlY2tzdW0iOiIrSzVKVEJOR0NRSzhoRVJxdDJTQU5BPT0ifSx7InByb2R1Y3ROdW1iZXIiOiI0VUNMMTYwVVVTMDIwODEwV0IwRjU3NSIsImV4cGFuc2lvbktleSI6IlEtTVkzMTAyOTAxMDFHMTArRGJ6MTBCWFNKcCIsIm9mZmVyTmFtZSI6IjREIENsaWVudCBFeHBhbnNpb24gdjE2IC0gMjAgY29ubi4iLCJjaGVja3N1bSI6IlFNRHcyV25aL2lidEJCMTVjVFJvRkE9PSJ9LHsicHJvZHVjdE51bWJlciI6IjRVVlcxNjBVVVMwMDJCQzhNSTAwMjIzIiwiZXhwYW5zaW9uS2V5IjoiUWZkWTM2MDg2MDgxMCtEYnoxMEdGYjZwIiwib2ZmZXJOYW1lIjoiNEQgVmlldyB8IDREIFZpZXcgUHJvIEV4cGFuc2lvbiB2MTYgLSAyIGNvbm4uIiwiY2hlY2tzdW0iOiJIME8va3BjaHhpdjEyZ09xWjRsUnZnPT0ifSx7InByb2R1Y3ROdW1iZXIiOiI0VVZXMTYwVVVTMDIwQ05WWjkwMkYwOCIsImV4cGFuc2lvbktleSI6IlJTaFkzNjA4NTAxRzEwK0RiejEwSjllNVkiLCJvZmZlck5hbWUiOiI0RCBWaWV3IHwgNEQgVmlldyBQcm8gRXhwYW5zaW9uIHYxNiAtIDIwIGNvbm4uIiwiY2hlY2tzdW0iOiJtZTZGazBKRjRWRldxSGtBY0FRWGl3PT0ifSx7InByb2R1Y3ROdW1iZXIiOiI0VVdFMTYwVVVTMDAxNlBCR0owREM5QyIsImV4cGFuc2lvbktleSI6IlErUlkzMzAyNzBYeUwxMCtEYnoxMDlkRE0iLCJvZmZlck5hbWUiOiI0RCBXZWIgQXBwbGljYXRpb24gRXhwYW5zaW9uIHYxNiIsImNoZWNrc3VtIjoiT2FHS0tjMEd0aSt0MjR6K1psMFRjdz09In1dLCJjaGVja3N1bSI6IlhrUjFxNWpYUG5rVnFKa25ibi9pWHc9PSJ9</BLK>//-->
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>4USE160-UUS001-AP91K-159E4</title>
+<style type="text/css">body{
+ cursor:default;
+ font-family:Verdana,Arial,Helvetica,sans-serif;
+ color:#003366;
+ font-size:11px;
+ white-space:nowrap;
+}
+
+h1{
+ font-family:Verdana,Arial,Helvetica,sans-serif;
+ color:#003366;
+ font-size:14px;
+ margin-left:30px;
+ text-overflow:ellipsis;
+}
+
+div{
+ overflow:auto;
+ border-style:solid;
+ border-width:1px;
+ border-color:#A5A5A5;
+ border-radius:8px;
+ white-space:nowrap;
+}
+
+table{
+ width:100%;
+ padding-left:8px;
+ padding-right:8px;
+ padding-top:2px;
+ padding-bottom:2px;
+ white-space:nowrap;
+}
+
+td{
+ padding-left:4px;
+ padding-right:4px;
+}
+
+.col-title{
+ width:160px;
+ vertical-align:top;
+ text-align:right;
+}
+
+.col-separator{
+ width:16px;
+ text-align:center;
+}
+
+#offer-name{
+ font-size:32px;
+ color:#004990;
+}
+
+#product-logo{
+ padding-right:16px;
+ text-align:right;
+}
+
+.time-bomb{color:red;font-style:italic;/*font-weight:bold;*/}
+
+.font-monospace{font-family:Monospace;}
+.text-left{text-align:left;}
+.text-right{text-align:right;}
+.text-right-bold{text-align:right;font-weight:bold;}
+.no-border{border-style:none;}
+.pad-16{padding-left:16px};
+
+.border-left{
+ border-top-style:none;
+ border-right-style:none;
+ border-bottom-style:none;
+}
+
+.text-unselectable{
+cursor:default;
+user-select:none;
+-moz-user-select:none;
+-webkit-user-select:none;
+-ms-user-select:none;
+}
+
+.text-selectable{
+ cursor:text;
+ user-select:text;
+-moz-user-select:text;
+-webkit-user-select:text;
+-ms-user-select:text;
+}
+
+.contain-title{
+ text-align:right;
+ vertical-align:top;
+}
+
+div.box{
+ margin-left:16px;
+ margin-right:16px;
+ margin-bottom:8px;
+}
+
+div.box-container{
+ margin-left:16px;
+ margin-right:16px;
+ margin-bottom:8px;
+ border-top-left-radius:inherited;
+ border-top-right-radius:inherited;
+ border-bottom-right-radius:2px;
+ border-bottom-left-radius:2px;
+}
+
+div.website{
+ margin-left:16px;
+ margin-right:16px;
+ text-align:center;
+ border-style:none;
+}
+
+table.contain{
+ border-collapse:collapse;
+ text-align:center;
+}
+
+tr.contain{
+ border-style:dotted;
+ border-width:0 0 0.1em;
+}
+
+th.contain{
+ border-style:dotted;
+ border-left-width:0.1em;
+ border-top-width:0;
+ border-right-width:0;
+ border-bottom-width:0;
+}
+
+td.contain{
+ border-style:dotted;
+ border-left-width:0.1em;
+ border-top-width:0;
+ border-right-width:0;
+ border-bottom-width:0;
+}
+
+table.grey{font-size:11px;}
+
+table.red{
+ font-size:11px;
+ color:red;
+}
+
+.gradient-light-grey{
+ background-image:-webkit-gradient(linear,left top,left bottom,from(#FFF),to(#DDD));
+ background-image:-webkit-linear-gradient(#FFF,#DDD);
+ background-image:-moz-linear-gradient(#FFF,#DDD);
+ background-image:-ms-linear-gradient(#FFF,#DDD);
+ background-image:-o-linear-gradient(#FFF,#DDD);
+ background-image:linear-gradient(#FFF,#DDD);
+}
+
+.page{
+ position:absolute;
+ left:0px;
+ top:0px;
+ right:0px;
+ bottom:0px;
+ border-radius:0px;
+}</style>
+</head>
+<body>
+<div class="page text-unselectable gradient-light-grey">
+<div class="no-border">
+<table>
+<tr><td>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="70px" height="98.09865065986px" x="0px" y="0px" viewBox="0 0 141.773 198.682" xml:space="preserve"><desc>4D's logo is a trademark of 4D SAS, registered in France and other countries.</desc><title>Logo 4D</title><rect fill="#004289" width="141.773" height="198.682"/><path fill="#FFFFFF" d="M63.855,136.509l-0.006,16.829h7.042c3.09,0,4.577-1.146,5.264-1.146c0.572,0,1.029,0.458,1.029,1.373c0,1.03-1.144,5.723-1.945,7.21c-0.572,1.03-1.144,1.488-3.089,1.488l-8.217,0.007c0.036,2.326,0.079,3.962,0.119,4.739c0.114,2.862,0.614,7.438,1.529,8.698c1.487,2.174,6.041,4.577,15.082,4.577c11.672,0,19.454-2.289,26.321-8.239c7.322-6.295,9.612-16.708,9.612-28.495c0-14.533-6.065-23.917-10.986-28.609c-10.528-10.071-23.573-11.444-32.5-11.444c-2.289,0-6.883,0.344-7.798,0.802c-1.03,0.457-1.444,1.029-1.444,2.289L63.855,136.509H49.954v-18.534c-2.632,3.319-25.981,30.212-29.872,35.362H46.33v8.926H10.812c-1.373,0-2.861-0.458-2.861-1.718c0-1.373,1.03-2.403,1.488-2.975c0.801-0.916,47.291-56.694,48.25-57.802c1.823-2.102,2.628-2.617,3.88-2.558c1.931,0.092,1.657,1.521,4.735,1.163c0.277-0.032,4.145-0.255,8.637-0.255c14.304,0,33.415,0,45.888,13.046c5.722,5.951,11.102,15.449,11.102,29.066c0,14.419-6.066,25.406-12.474,31.928c-5.265,5.378-17.166,13.503-38.337,13.503c-4.362,0-15.634-0.856-25.678-0.856c-3.204,0-9.384,0.344-15.677,0.344c-1.259,0-1.832-0.589-1.832-1.39c0-0.802,0.344-1.505,0.915-1.505c1.031,0,3.548-0.114,5.379-0.344c4.349-0.457,5.161-2.254,5.378-5.802c0.38-6.204,0.348-13.833,0.348-13.833v-25.768H63.855z"/></svg>
+</td>
+<td>
+<H1 id="offerName">4D Server v16 </H1>
+<H1 class="text-selectable">Product Number : <span id="productNumber" data-version="1600">4USE160-UUS001-AP91K-159E4</span></H1>
+<td id="product-logo">
+<svg version="1.1" id="4D_SERVER" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96px" height="96px" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve"><desc>4D's logo is a trademark of 4D SAS, registered in France and other countries.</desc><title>4D Server</title><style type="text/css">.circleGradient{fill:url(#logo4DGradient);} .logoFill{fill:#FFFFFF;}</style><g><linearGradient id="logo4DGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="300"><stop offset="0" style="stop-color:#D15AFC"/><stop offset="1" style="stop-color:#5E0280"/></linearGradient></g><g id="icon-4D-server"><circle id="logoCircle" class="circleGradient" cx="150" cy="150"  r="150" /><g id="4D-server-icon-path"><ellipse class="logoFill" cx="158.6" cy="91.2" rx="76.4" ry="34.5"/><path class="logoFill" d="M229.9,113.5c-11.1,12.9-38.8,22-71.3,22c-32.5,0-60.2-9.1-71.3-22c-3.3-3.9-5.2-8.1-5.2-12.5V126c0,19,34.2,34.5,76.4,34.5S235,145,235,126V101C235,105.4,233.2,109.6,229.9,113.5z"/><path class="logoFill" d="M229.9,147.5c-11.1,12.9-38.8,22-71.3,22c-32.5,0-60.2-9.1-71.3-22c-3.3-3.9-5.2-8.1-5.2-12.5V160c0,19,34.2,34.5,76.4,34.5S235,179.1,235,160v-24.9C235,139.5,233.2,143.7,229.9,147.5z"/><path class="logoFill" d="M244.4,217.3h-53.6v-4.3h-27.5V200h-9.4v13.1h-27.5v4.3H72.7c-3.3,0-6.1,2.7-6.1,6.1v1.2c0,3.3,2.7,6.1,6.1,6.1h53.6v4.3h64.4v-4.3h53.6c3.3,0,6.1-2.7,6.1-6.1v-1.2C250.5,220.1,247.8,217.3,244.4,217.3z"/></g></g></svg>
+</td>
+</tr>
+</table>
+</div>
+<div class="box">
+<table class="grey">
+<tr><td class="col-title text-right-bold">Registration Date</td><td class="col-separator">:</td><td id="registrationDate">13 March 2017</td></tr>
+<tr><td class="text-right-bold">Company</td><td class="col-separator">:</td><td id="company">IF 65 spa</td></tr>
+<tr><td class="text-right-bold">Lastname</td><td class="col-separator">:</td><td id="lastname">taglietti</td></tr>
+<tr><td class="text-right-bold">Firstname</td><td class="col-separator">:</td><td id="firstname">massimo</td></tr>
+<tr><td class="text-right-bold">E-mail</td><td class="col-separator">:</td><td id="email">mtaglietti@mac.com</td></tr>
+<tr><td class="text-right-bold">Customer ID</td><td class="col-separator">:</td><td id="account">W28033</td></tr>
+</table>
+</div>
+<div class="box">
+<table class="grey">
+<tr><td class="col-title"><b>Platform</b></td><td class="col-separator">:</td><td id="platform" data-plateform="4" data-os="2">Mac</td></tr>
+<tr><td class="col-title"><b>Lot Number</b></td><td class="col-separator">:</td><td id="lotNumber" class="text-selectable">WEBO36454/20170126</td></tr>
+</table>
+</div>
+<div class="box-container">
+<table id="features" class="contain grey">
+<tr class="contain"><th class="grey"><b>Features</b></th><th class="contain">Total Quantity</th></tr>
+<tr><td class="grey text-selectable text-left pad-16" id="featureLabel-1">4D Client</td><td id="featureQuantity-1" class="contain text-selectable font-monospace">22</td></tr>
+<tr><td class="grey text-selectable text-left pad-16" id="featureLabel-2">4D Server</td><td id="featureQuantity-2" class="contain text-selectable font-monospace">1</td></tr>
+<tr><td class="grey text-selectable text-left pad-16" id="featureLabel-3">4D SQL Server Unlimited</td><td id="featureQuantity-3" class="contain text-selectable font-monospace">32670</td></tr>
+<tr><td class="grey text-selectable text-left pad-16" id="featureLabel-4">4D View | 4D View Pro</td><td id="featureQuantity-4" class="contain text-selectable font-monospace">22</td></tr>
+<tr><td class="grey text-selectable text-left pad-16" id="featureLabel-5">4D Web Server Unlimited</td><td id="featureQuantity-5" class="contain text-selectable font-monospace">32670</td></tr>
+<tr><td class="grey text-selectable text-left pad-16" id="featureLabel-6">4D Web Services Server Unlimited</td><td id="featureQuantity-6" class="contain text-selectable font-monospace">32670</td></tr>
+<tr><td class="grey text-selectable text-left pad-16" id="featureLabel-7">Backup</td><td id="featureQuantity-7" class="contain text-selectable font-monospace">1</td></tr>
+<tr><td class="grey text-selectable text-left pad-16" id="featureLabel-8">Internal ODBC Commands</td><td id="featureQuantity-8" class="contain text-selectable font-monospace">1</td></tr>
+</table>
+</div>
+<div class="box-container">
+<table id="expansions" class="contain grey">
+<tr class="contain"><th class="grey"><b>Expansions</b></th><th class="contain">Product Number</th></tr>
+<tr><td id="expansionLabel-1" class="grey text-selectable text-left pad-16">4D Web Services Expansion v16</td><td id="expansionNumber-1" class="contain text-selectable font-monospace">4UWS160-UUS001-CNVZ8-0FF84</td></tr>
+<tr><td id="expansionLabel-2" class="grey text-selectable text-left pad-16">4D SQL Expansion v16 - Unlimited 2 Cores</td><td id="expansionNumber-2" class="contain text-selectable font-monospace">4USQ160-UUS001-810WA-0113E</td></tr>
+<tr><td id="expansionLabel-3" class="grey text-selectable text-left pad-16">4D Client Expansion v16 - 20 conn.</td><td id="expansionNumber-3" class="contain text-selectable font-monospace">4UCL160-UUS020-810WB-0F575</td></tr>
+<tr><td id="expansionLabel-4" class="grey text-selectable text-left pad-16">4D View | 4D View Pro Expansion v16 - 2 conn.</td><td id="expansionNumber-4" class="contain text-selectable font-monospace">4UVW160-UUS002-BC8MI-00223</td></tr>
+<tr><td id="expansionLabel-5" class="grey text-selectable text-left pad-16">4D View | 4D View Pro Expansion v16 - 20 conn.</td><td id="expansionNumber-5" class="contain text-selectable font-monospace">4UVW160-UUS020-CNVZ9-02F08</td></tr>
+<tr><td id="expansionLabel-6" class="grey text-selectable text-left pad-16">4D Web Application Expansion v16</td><td id="expansionNumber-6" class="contain text-selectable font-monospace">4UWE160-UUS001-6PBGJ-0DC9C</td></tr>
+</table>
+</div>
+<div class="website"><a id="website" href="http://www.4d.com/" TARGET="_blank">http://www.4d.com/</a></div>
+</div>
+</body>
+</html>
+<!--//<CHK>YRHpBxM2q2kuk9zYXMR7Gg==</CHK>//-->
